@@ -1,0 +1,10 @@
+body{
+    background-color: #39b54a;
+    margin: 0; padding: 0;
+}
+.nav{
+    font-family: Verdana;
+    display: inline-block; /*Задаем блочно-строчное отображение*/
+    width: auto; /*задаем ширину блока*/
+    vertical-align: middle;
+}
